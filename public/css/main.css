@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-image: url(../img/pc.jpg);
+}
+
+
+h1 {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #ff4500;
+    text-align: center;
+}
+
+.container {
+    width: 550px;
+    margin: 0 auto;
+}
+
+
+.menuser .navitem {
+    height: 40px;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    transition: all 0.5s ease;
+    border-radius: 10px;
+}
+
+.menuser .navitem:hover {
+    background-color: #ffffff;
+}
+
+.menuser .navitem a{
+    text-decoration: none;
+
+}
+
+.list-group a span{
+    color: #ff4500;
+}
+
+.list-group-item {
+    text-align: center;
+}
+
+.btn-primary {
+    cursor: pointer;
+}
+
+
+
+
+
